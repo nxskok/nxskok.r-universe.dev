@@ -6,5 +6,9 @@
     {
         "package": "mkac",
         "url": "https://github.com/nxskok/mkac"
+    },
+    {
+        "package": "bstrap",
+        "url": "https://worktree.ca/nxskok/bstrap
     }
 ]
